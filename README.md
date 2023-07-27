@@ -1,2 +1,2 @@
 # Gartic.io_Site
-#https://garticbotbykaras.netlify.app/
+https://garticbotbykaras.netlify.app/
